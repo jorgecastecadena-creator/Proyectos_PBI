@@ -25,7 +25,7 @@ Cerré con el análisis de despachos de las órdenes de diciembre de 2015, donde
 Entre varios, el más revelador fue el CAGR, siendo 1.25% (positivo con tendencia creciente) en ese periodo revela que existen dos categorias en contradiccion pues 
 tienen resultados negativos. 
 
-🚀 ACCIONABLES:
+## 🚀 ACCIONABLES:
 
 Priorizar mover volumen en ese product_type especifco con apoyo de marketing, pues muestra buen margen de utilidad. 
 
