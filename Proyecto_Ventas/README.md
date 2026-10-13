@@ -22,8 +22,7 @@ Cerré con el análisis de despachos de las órdenes de diciembre de 2015, donde
 
 ## 🕵️ HALLAZGOS:
 
-Entre varios, el más revelador fue el CAGR, siendo 1.25% (positivo con tendencia creciente) en ese periodo revela que existen dos categorias en contradiccion pues 
-tienen resultados negativos. 
+Entre varios, el más revelador fue el CAGR, aunque el valor es positivo (1.25%), en ese periodo se puede evidenciar en la grafica de barras que existen dos categorias en contradiccion porque tienen resultados negativos. 
 
 ## 🚀 ACCIONABLES:
 
