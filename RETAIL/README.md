@@ -6,5 +6,5 @@ El campo Discount es una tasa de descuento (%), no un monto.
 El campo Profit es el total de la linea, representa la utilidad, y puede ser negativa.
 Los tres campos estas ligados, si el descuento sube entonces Sales baja, afectando tambien al Profit.
 
-El objetivo de calculo es responder a la pregunta: Dónde crece el negocio de forma rentable, dónde se pierde dinero.
+El objetivo de calculo es responder a la pregunta: **Dónde crece el negocio de forma rentable, dónde se pierde dinero.**
 ---En otras hojas se expande el analisis---
